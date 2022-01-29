@@ -1,0 +1,15 @@
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/typeConversion/bin/Debug/net5.0/typeConversion.deps.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/typeConversion/bin/Debug/net5.0/typeConversion.runtimeconfig.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/typeConversion/bin/Debug/net5.0/typeConversion.runtimeconfig.dev.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/typeConversion/bin/Debug/net5.0/typeConversion.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/typeConversion/bin/Debug/net5.0/ref/typeConversion.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/typeConversion/bin/Debug/net5.0/typeConversion.pdb
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/typeConversion/obj/Debug/net5.0/typeConversion.csproj.AssemblyReference.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/typeConversion/obj/Debug/net5.0/typeConversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/typeConversion/obj/Debug/net5.0/typeConversion.AssemblyInfoInputs.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/typeConversion/obj/Debug/net5.0/typeConversion.AssemblyInfo.cs
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/typeConversion/obj/Debug/net5.0/typeConversion.csproj.CoreCompileInputs.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/typeConversion/obj/Debug/net5.0/typeConversion.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/typeConversion/obj/Debug/net5.0/ref/typeConversion.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/typeConversion/obj/Debug/net5.0/typeConversion.pdb
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/typeConversion/obj/Debug/net5.0/typeConversion.genruntimeconfig.cache
